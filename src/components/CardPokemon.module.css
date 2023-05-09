@@ -1,0 +1,98 @@
+.flexPai{
+    width:275px;
+    padding: 30px;
+    display: flex;
+    background-color: rgb(69, 70, 75);
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px black;
+    color: rgb(208, 208, 214);
+    align-items: center;
+    margin:10px;
+}
+.flexPai:hover{
+    box-shadow: 4px 4px 14px rgb(208, 208, 214);
+}
+.flexFilho{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+}
+.pokemonImg{
+    width: 125px;
+    height: 125px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px black;
+    background-color: rgb(208, 208, 214);
+    margin-right: 1rem;
+}
+.numero{
+    font-size: 14px;
+}
+p{
+    margin-bottom: 0;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 600;
+}
+h2{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.bug{
+    background-color: #0c6404;
+}
+.dark{
+    background-color: black;
+}
+.dragon{
+    background-color: rgb(52, 139, 214);
+}
+.eletric{
+    background-color: rgb(199, 228, 71);
+    color: rgb(34, 33, 33);
+}
+.fairy{
+    background-color: rgb(165, 19, 109);
+}
+.fighting{
+    background-color: rgb(156, 64, 22);
+}
+.fire{
+    background-color: rgb(202, 46, 41);
+}
+.flying{
+    background-color: #0c4566;
+}
+.ghost{
+    background-color: #2f258a;
+}
+.grass{
+    background-color: rgb(50, 170, 60);
+}
+.ground{
+    background-color: rgb(131, 93, 44);
+}
+.ice{
+    color:rgb(34, 33, 33);
+    background-color: #84bfe0;
+}
+.normal{
+    background-color: #765381;
+}
+.poison{
+    background-color: #4c1594;
+}
+.psychic{
+    background-color: #bf19c5;
+}
+.rock{
+    background-color: rgb(102, 46, 8);
+}
+.steel{
+    background-color: #119b61;
+}
+.water{
+    background-color: rgb(0, 81, 255);
+}
